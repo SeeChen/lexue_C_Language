@@ -2,7 +2,7 @@
 *This is the programming assignment code for Lexue of Beijing Institute of Technology, For me convenience of later review.*
 
 ## **NOTICE：The code is not completely correct !**
-----
+---
 #### About sequence：
 1. *This code is sort by LEXUE from up to down, not in accordance with LEXUE numbers.*
 
