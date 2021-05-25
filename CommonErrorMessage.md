@@ -200,64 +200,65 @@
 	- Default太多(switch语句中一个)
 99. Too many error or warning messages
 	- 错误或警告信息太多
-100. Too many type in declaration	- 说明中类型太多
-102. Too much auto memory in function
+100. Too many type in declaration
+	- 说明中类型太多
+101. Too much auto memory in function
 	- 函数用到的局部存储太多
-103. Too much global data defined in file
+102. Too much global data defined in file
 	- 文件中全局数据太多
-104. Two consecutive dots
+103. Two consecutive dots
 	- 两个连续的句点
-105. Type mismatch in parameter xxx
+104. Type mismatch in parameter xxx
 	- 参数xxx类型不匹配
-106. Type mismatch in redeclaration of ''xxx''
+105. Type mismatch in redeclaration of ''xxx''
 	- xxx重定义的类型不匹配
-107. Unable to create output file ''xxx''
+106. Unable to create output file ''xxx''
 	- 无法建立输出文件xxx
-108. Unable to open include file ''xxx''
+107. Unable to open include file ''xxx''
 	- 无法打开被包含的文件xxx
-109. Unable to open input file ''xxx''
+108. Unable to open input file ''xxx''
 	- 无法打开输入文件xxx
-110. Undefined label ''xxx''
+109. Undefined label ''xxx''
 	- 没有定义的标号xxx
-111. Undefined structure ''xxx''
+110. Undefined structure ''xxx''
 	- 没有定义的结构xxx
-112. Undefined symbol ''xxx''
+111. Undefined symbol ''xxx''
 	- 没有定义的符号xxx
-113. Unexpected end of file in comment started on line xxx
+112. Unexpected end of file in comment started on line xxx
 	- 从xxx行开始的注解尚未结束文件不能结束
-114. Unexpected end of file in conditional started on line xxx
+113. Unexpected end of file in conditional started on line xxx
 	- 从xxx 开始的条件语句尚未结束文件不能结束
-115. Unknown assemble instruction
+114. Unknown assemble instruction
 	- 未知的汇编结构
-116. Unknown option
+115. Unknown option
 	- 未知的操作
-117. Unknown preprocessor directive: ''xxx''
+116. Unknown preprocessor directive: ''xxx''
 	- 不认识的预处理命令xxx
-118. Unreachable code
+117. Unreachable code
 	- 无路可达的代码
-119. Unterminated string or character constant
+118. Unterminated string or character constant
 	- 字符串缺少引号
-120. User break
+119. User break
 	- 用户强行中断了程序
-121. Void functions may not return a value
+120. Void functions may not return a value
 	- Void类型的函数不应有返回值
-122. Wrong number of arguments
+121. Wrong number of arguments
 	- 调用函数的参数数目错
-123. ''xxx'' not an argument
+122. ''xxx'' not an argument
 	- xxx不是参数
-124. ''xxx'' not part of structure
+123. ''xxx'' not part of structure
 	- xxx不是结构体的一部分
-125. xxx statement missing (
+124. xxx statement missing (
 	- xxx语句缺少左括号
-126. xxx statement missing )
+125. xxx statement missing )
 	- xxx语句缺少右括号
-127. xxx statement missing ;
+126. xxx statement missing ;
 	- xxx缺少分号
-128. xxx'' declared but never used
+127. xxx'' declared but never used
 	- 说明了xxx但没有使用
-129. xxx'' is assigned a value which is never used
+128. xxx'' is assigned a value which is never used
 	- 给xxx赋了值但未用过
-130. Zero length structure
+129. Zero length structure
 	- 结构体的长度为零
 
 ###### *Last modified in 01:21:48 26 May 2021 GMT +08:00 by SeeChen.*
