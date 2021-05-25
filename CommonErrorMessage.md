@@ -16,14 +16,14 @@
 	- 参数中有不适当的字符
 7. Bad file name format in include directive
 	- 包含命令中文件名格式不正确
-Bad ifdef directive synatax
-编译预处理ifdef有语法错
-Bad undef directive syntax
-编译预处理undef有语法错
-Bit field too large
-位字段太长
-Call of non-function
-调用未定义的函数
+8. Bad ifdef directive synatax
+	- 编译预处理ifdef有语法错
+9. Bad undef directive syntax
+	- 编译预处理undef有语法错
+10. Bit field too large
+	- 位字段太长
+11. Call of non-function
+	- 调用未定义的函数
 Call to function with no prototype
 调用函数时没有函数的说明
 Cannot modify a const object
