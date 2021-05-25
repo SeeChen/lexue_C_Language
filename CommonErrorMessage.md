@@ -3,13 +3,13 @@
 ### *Chinese-English Comparison*
 
 1. Ambiguous operators need parentheses
-	- 不明确的运算需要用括号括起
+	* 不明确的运算需要用括号括起
 2. Ambiguous symbol ''xxx''
- 	- 不明确的符号
+ 	* 不明确的符号
 3. Argument list syntax error
-	+ 参数表语法错误
+	* 参数表语法错误
 4. Array bounds missing
-	+ 丢失数组界限符
+	* 丢失数组界限符
 Array size toolarge
 数组尺寸太大
 Bad character in paramenters
