@@ -201,7 +201,7 @@
 99. Too many error or warning messages
 	- 错误或警告信息太多
 100. Too many type in declaration
-	- 说明中类型太多
+	* 说明中类型太多
 102. Too much auto memory in function
 	- 函数用到的局部存储太多
 103. Too much global data defined in file
