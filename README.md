@@ -3,4 +3,4 @@
 
 ## **NOTICE：The code is not completely correct !**
 
-### About sequence
+#### About sequence：
