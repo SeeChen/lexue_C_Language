@@ -4,6 +4,6 @@
 ## **NOTICE：The code is not completely correct !**
 ---
 #### About sequence：
-1. &nbsp;&nbsp;*This code is sort by LEXUE from up to down, not in accordance with LEXUE numbers.*
+&nbsp;&nbsp;&nbsp;&nbsp;*This code is sort by LEXUE from up to down, not in accordance with LEXUE numbers.*
 
-2. *All code title same as LEXUE homeworks.*
+&nbsp;&nbsp;&nbsp;&nbsp;*All code title same as LEXUE homeworks.*
