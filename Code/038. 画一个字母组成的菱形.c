@@ -19,12 +19,12 @@ int main(){
         for(j=n;j>i;j--){  
             printf(" ");  
         }  
-        if(i==1) goto haha;  
+        if(i==1) goto SC_Lee;  
         printf("%c",c);  
         for(j=1;j<(2*i-2);j++){  
             printf(" ");  
         }  
-        haha:printf("%c\n",c);  
+        SC_Lee:printf("%c\n",c);  
         if(c=='Z'){  
             c='A';  
         }  
@@ -42,11 +42,11 @@ int main(){
         for(j=n;j>=i;j--){  
             printf(" ");  
         }  
-        if(i==2) goto hah;  
+        if(i==2) goto SC_L;  
         printf("%c",c);  
         for(j=1;j<(2*i-4);j++){  
             printf(" ");  
         }  
-        hah:printf("%c\n",c);  
+        SC_L:printf("%c\n",c);  
     }  
 } 
