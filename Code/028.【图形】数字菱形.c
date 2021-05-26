@@ -16,22 +16,26 @@
 x是多少呢？则要寻找其规律，就是该输出位置与所在行列的关系。
 */
 #include "stdio.h"
-void main(void){
-	char i,ci,j,cj,n;
+int main() {
+	int n,i,j;
 	scanf("%d",&n);
-	if(n==1||n==2){
-		for(i=1,ci=1;i;++ci<n/2+2 ? i++ : i--){
-			printf("%*c",48-i,' ');
-			for(j=n,cj=i;j<=n;--cj>0 ? j-- : j++)
-				printf("%X",j);
+		for(i=1; i<=n; i++) {
+			for(j=1; j<=n-i; j++)
+				printf(" ");
+			for(j=n; j>=n-i+1; j--)
+				printf("%d",j);
+			for(j=n-i+2; j<=n; j++)
+				printf("%d",j);
 			printf("\n");
 		}
-	}else{
-		for(i=1,ci=0;i;++ci<n/2+2 ? i++ : i--){
-			printf("%*c",48-i,' ');
-			for(j=n,cj=i;j<=n;--cj>0 ? j-- : j++)
-				printf("%X",j);
+		for(i=n-1; i>=1; i--) {
+			for(j=1; j<=n-i; j++)
+				printf(" ");
+			for(j=n; j>=n-i+1; j--)
+				printf("%d",j);
+			for(j=n-i+2; j<=n; j++)
+				printf("%d",j);
 			printf("\n");
 		}
-	}
+	return 0;
 }
