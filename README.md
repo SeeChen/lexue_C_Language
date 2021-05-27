@@ -15,4 +15,3 @@
 <img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
 <img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
 <img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
