@@ -8,10 +8,8 @@
 </br>&nbsp;&nbsp;&nbsp;&nbsp;*All code title same as LEXUE homeworks.*
 </br>&nbsp;&nbsp;&nbsp;&nbsp;*All code don't have input and output example.*
 <br/><br/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
-<img src="https://lh3.googleusercontent.com/proxy/4aVMIPS6JtzznVVtgmb5qEFJZ_J7uxvdAaRIoTGtpnxVs2rpOEqPsxpiZJvhWKYASzPBBi4Fexz_2XdnkTGpbZnYWcmX1owZfUveh8it8Nc68Q" width="100" height="100" alt=""/>
+<img src="https://lh3.googleusercontent.com/proxy/zC81My61lIelntGtemCUWttiT7mikuJZh7Yz4YiD8mdSc00jpv5kaQLZ-lQC7lQdYinG43lGh7O9h_FgIh0VJvCHWc7ruzttehJcqdjRbD1FHw" width="100" height="100" alt=""/>
+<img src="https://lh3.googleusercontent.com/proxy/zC81My61lIelntGtemCUWttiT7mikuJZh7Yz4YiD8mdSc00jpv5kaQLZ-lQC7lQdYinG43lGh7O9h_FgIh0VJvCHWc7ruzttehJcqdjRbD1FHw" width="100" height="100" alt=""/>
+<img src="https://lh3.googleusercontent.com/proxy/zC81My61lIelntGtemCUWttiT7mikuJZh7Yz4YiD8mdSc00jpv5kaQLZ-lQC7lQdYinG43lGh7O9h_FgIh0VJvCHWc7ruzttehJcqdjRbD1FHw" width="100" height="100" alt=""/>
+<img src="https://lh3.googleusercontent.com/proxy/zC81My61lIelntGtemCUWttiT7mikuJZh7Yz4YiD8mdSc00jpv5kaQLZ-lQC7lQdYinG43lGh7O9h_FgIh0VJvCHWc7ruzttehJcqdjRbD1FHw" width="100" height="100" alt=""/>
+<img src="https://lh3.googleusercontent.com/proxy/zC81My61lIelntGtemCUWttiT7mikuJZh7Yz4YiD8mdSc00jpv5kaQLZ-lQC7lQdYinG43lGh7O9h_FgIh0VJvCHWc7ruzttehJcqdjRbD1FHw" width="100" height="100" alt=""/>
