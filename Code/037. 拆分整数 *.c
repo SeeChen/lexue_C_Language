@@ -15,20 +15,18 @@ int count( int n, int m)
 注意：仅提交自编的count函数，不提交main函数。
 */
 /* PRESET CODE BEGIN - NEVER TOUCH CODE BELOW */  
- 
 #include <stdio.h>  
-int main()   
-{  
+int main(){  
    int n, count( );  
    scanf("%d", &n);  
    printf("%d\n", count (n, n-1));    
    return 0;  
 } 
 int count( int n, int m ){  
-    if(n==1||m==1){  
-        return 1;  
-    }else if(n<1||m<1){  
+    if(n<1||m<1){  
         return 0;  
+    }else if(n==1||m==1){  
+        return 1;  
     }else if(n<m){  
         return count(n,n);  
     }else if(n==m){  
