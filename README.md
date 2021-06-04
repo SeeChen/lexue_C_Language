@@ -8,8 +8,8 @@
 </br>&nbsp;&nbsp;&nbsp;&nbsp;*All code title same as LEXUE homeworks.*
 </br>&nbsp;&nbsp;&nbsp;&nbsp;*All code don't have input and output example.*
 <br/><br/>
-<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="100" height="100" alt=""/>
-<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="100" height="100" alt=""/>
-<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="100" height="100" alt=""/>
-<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="100" height="100" alt=""/>
-<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="100" height="100" alt=""/>
+<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="20%" height="20%" alt=""/>
+<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="20%" height="20%" alt=""/>
+<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="20%" height="20%" alt=""/>
+<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="20%" height="20%" alt=""/>
+<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="20%" height="20%" alt=""/>
