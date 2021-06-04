@@ -1,7 +1,7 @@
 # C Language of Lexue
 *This is the programming assignment code for Lexue of Beijing Institute of Technology, For me convenience of later review.*
 
-## **NOTICE：The code is not completely correct ! If you have better code, please pull requests to me. THANK YOU!!!**
+## **NOTICE：The code is not completely correct, if you have better code, please pull requests to me. Thank You!**
 ---
 #### About sequence：
 &nbsp;&nbsp;&nbsp;&nbsp;*This code is sort by LEXUE from up to down, not in accordance with LEXUE numbers.*
