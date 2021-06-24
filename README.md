@@ -12,6 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;-*This code is sorted from top to bottom in [LEXUE C Language](http://lexue.bit.edu.cn/course/view.php?id=6775), which is different from the [LEXUE C Language](http://lexue.bit.edu.cn/course/view.php?id=6775) number.*</br>
 &nbsp;&nbsp;&nbsp;&nbsp;-*Except for the number, all titles are the same as [LEXUE C Language](http://lexue.bit.edu.cn/course/view.php?id=6775).*</br>
 &nbsp;&nbsp;&nbsp;&nbsp;-*All code don't have input and output example.*</br>
+&nbsp;&nbsp;&nbsp;&nbsp;-*If you can't find the code you want, please check whether other code files have similar topic.*</br>
 &nbsp;&nbsp;&nbsp;&nbsp;-*All codes are in the [Code](https://github.com/SeeChen/lexue_C_Language/tree/main/Code) folder.*</br>
 ***
 ### Contributors
