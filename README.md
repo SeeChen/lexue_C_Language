@@ -17,7 +17,7 @@
 ***
 ### Contributors
 &nbsp;&nbsp;&nbsp;&nbsp;-*This project exists thanks to all the people who contribute.*</br></br>
-<a href="https://github.com/SeeChen/MOOC_C_Language/graphs/contributors"><img src="https://contrib.rocks/image?repo=SeeChen/lexue_C_Language" /></a>
+<a href="https://github.com/SeeChen/lexue_C_Language/graphs/contributors"><img src="https://contrib.rocks/image?repo=SeeChen/lexue_C_Language" /></a>
 ***
 #### *If you have any suggestions, please [click here](https://wa.me/60108279254).*
-###### *Last modified in 22:24:14 24 June 2021 GMT +08:00 by SeeChen.*
+###### *Last modified in 02:28:00 25 June 2021 GMT +08:00 by SeeChen.*
