@@ -21,9 +21,9 @@ for语句独占一行；
 #include <string.h>
 #define N 1000
 int main(){
-	int i,j,k;
+	int i,j,k,aa=0;
 	char c[N][N];
-	char ch;
+	char ch,prech;
 	int hxkohc=0,vuhjuu=0,ksge=0,newLine=0,ffhc=0;
 	for(i=0;;i++){
 		scanf("%s",&c[i]);
@@ -45,10 +45,11 @@ int main(){
 	i=0,j=-1;
 	while(1){
 		j+=1;
+		prech=c[i][j-1];
 		if(c[i][j]=='\0'){
 			i+=1;
 			j=0;
-			if(ch!='\n'&&ch!='{'&&ch!='}'&&newLine!=0)
+			if(ch!='\n'&&ch!='{'&&ch!='}'&&newLine!=0&&i!=1&&ch!=')')
 				printf(" ");
 		}
 		ch=c[i][j];
@@ -67,6 +68,7 @@ int main(){
 			printf("%c",ch);
 		switch(ch){
 			case '\n':
+				printf("");
 				break;
 			case ';':
 				if(ffhc==0){
@@ -80,10 +82,13 @@ int main(){
 				printf("\n");
 				break;
 			case '{':
-				printf("\n");
-				for(k=0;k<ksge;k++){
+				if(prech!=';'&&prech!='{'){
+					printf("\n");
+					aa=0;
+				}else
+					aa+=1;
+				for(k=0;k<ksge-(4*aa);k++)
 					printf(" ");
-				}
 				printf("%c\n",ch);
 				newLine=0;
 				ksge+=4;
