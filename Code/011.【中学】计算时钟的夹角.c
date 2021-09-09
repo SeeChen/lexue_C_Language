@@ -14,6 +14,6 @@ int main(){
     scanf("%d%d",&h,&m);  
     a1=h%12*30+0.5*m;  
     a2=6*m;  
-    a=fabs(a1-a2);  
+    a=fabs(a1-a2);
     printf("At %d:%02d the angle is %.1f degrees.\n",h,m,a);
-}  
+}
