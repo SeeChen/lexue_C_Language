@@ -93,5 +93,4 @@ int main(){
 	pring=find(head,&n);
 	printf("ring=%d\n",n);
 	outputring(pring);
-	return 0;
 }
