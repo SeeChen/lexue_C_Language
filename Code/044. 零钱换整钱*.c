@@ -23,5 +23,5 @@ int main(){
     }    
     printf("No change.\n");    
     end:    
-    return 0;    
-}  
+    return 0;
+}
