@@ -49,4 +49,4 @@ int main(){
         }  
         SC_L:printf("%c\n",c);  
     }  
-} 
+}
