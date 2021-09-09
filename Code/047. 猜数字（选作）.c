@@ -29,5 +29,4 @@ int main(){
 		res += pow(2, num-1);
 	}
 	printf("%d\n", res);
-    return 0; 
 }
