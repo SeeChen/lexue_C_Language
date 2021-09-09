@@ -44,4 +44,4 @@ int main(){
     for(int j=0;j<i;j++){  
         printf("%d/%d/%d\n",year,a[j],day);  
     }  
-}  
+}
