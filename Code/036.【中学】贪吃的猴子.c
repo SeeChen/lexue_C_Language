@@ -23,4 +23,4 @@ int eat(int m,int day){
     }else{  
         return 2*(eat(m,day-1)+(m-day));  
     }  
-}  
+}
