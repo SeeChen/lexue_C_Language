@@ -14,4 +14,4 @@ int main(){
     }else if(x>='a'&&x<='z'){  
         x=x-32; }        
     printf("%c\n",x); 
-}  
+}
