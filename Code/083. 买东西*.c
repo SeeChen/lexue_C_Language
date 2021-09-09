@@ -62,5 +62,4 @@ int main(){
 	printf("Total Money are : %d\nGoods-Name  Shop-Name  Goods-Price\n",min);
 	for(i=0;i<3;i++)
 		printf("         %c:%10d%13d\n",scheme[i].gname,scheme[i].sname,scheme[i].gprice);
-	return 0;
 }
