@@ -33,13 +33,13 @@ int main(){
 	scanf("%d %d %d",&syear,&smonth,&sday);
 	scanf("%d %d %d",&eyear,&emonth,&eday);
 	if((eyear-syear)==0)
-    bdays=days(eyear,emonth,eday)-days(syear,smonth,sday);
-  else if((eyear-syear)==1)
-    bdays=(year_days(syear)-days(syear,smonth,sday))+days(eyear,emonth,eday);
-  else if((eyear-syear)>1)
-    bdays=(year_days(syear)-days(syear,smonth,sday))+days(eyear,emonth,eday);
-  for(i=1;i<(eyear-syear);i++)
-    bdays=bdays+year_days(syear+i);
-  printf("%d days\n",bdays);
+		bdays=days(eyear,emonth,eday)-days(syear,smonth,sday);
+	else if((eyear-syear)==1)
+		bdays=(year_days(syear)-days(syear,smonth,sday))+days(eyear,emonth,eday);
+	else if((eyear-syear)>1)
+		bdays=(year_days(syear)-days(syear,smonth,sday))+days(eyear,emonth,eday);
+	for(i=1;i<(eyear-syear);i++)
+		bdays=bdays+year_days(syear+i);
+	printf("%d days\n",bdays);
 	return 0;
 }
