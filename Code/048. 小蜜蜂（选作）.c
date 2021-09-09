@@ -5,7 +5,7 @@
 输出：
     方案数量。
 */
-#include<stdio.h>
+#include <stdio.h>
 #define N 50
 int main(){
 	int b[N]={0};
