@@ -11,7 +11,7 @@ typedef struct node * PNODE;
 删除所有无效数值结点的函数原型：void deleteneg(PNODE head)，
 其中：参数head是带有头结点的单向链表的头指针。
 程序输入：在建立链表时，每次插入到头结点后的结点数据，以0为结束。
-*/
+*/ 
 #include <stdio.h>
 #include <stdlib.h>
 struct node{
