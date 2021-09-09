@@ -41,6 +41,6 @@
 None:code is already AC;
 WA:some test failed;
 TLE:some test TLE;
---no tested--:code is not tested;
+--no tested--:code is not tested in lexue;
 --NO CODE--:No code yet;
 ```
