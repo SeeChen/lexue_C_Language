@@ -23,4 +23,4 @@ int main(){
   }else{
     printf("triangle.\n");
   }
-}  
+}
