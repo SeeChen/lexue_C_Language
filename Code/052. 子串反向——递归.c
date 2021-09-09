@@ -10,8 +10,7 @@
 #include <stdlib.h>
 #include <string.h>
 void reverse( char *, int, int );
-int main( )
-{	char str[100];
+int main( ){	char str[100];
 	int start, end;
 	scanf("%s",str);
 	scanf("%d%d", &start, &end);
@@ -19,13 +18,10 @@ int main( )
 	printf("%s\n", str);
 	return 0;
 }
- 
-void reverse(char * str, int start, int end)
-{
+void reverse(char * str, int start, int end){
     if(end >= strlen(str))
         end = strlen(str) - 1;
-    if(end - start > 0)
-    {
+    if(end - start > 0){
         char tmp = str[start];
         str[start] = str[end];
         str[end] = tmp;
