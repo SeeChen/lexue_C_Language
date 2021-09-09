@@ -24,5 +24,4 @@ int main(){
 	scanf("%d %d",&m,&n);
 	count=f(m,n);
 	printf("%d\n",count);
-	return 0;
 }
