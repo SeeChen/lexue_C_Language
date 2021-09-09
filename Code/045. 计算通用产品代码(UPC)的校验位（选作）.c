@@ -11,7 +11,7 @@ UPC的校验位
 提示
 本题有隐藏测试用例。如果想多找不同的实例验证你的算法，可以拿身边书或食品背后的条码测试一下。
 */
-#include<stdio.h> 
+#include <stdio.h> 
 int main(){
 	int a,b,c,q,e,f,g,h,i,j,k,m,n,p,x,y,z;
 	scanf("%1d",&a);
