@@ -5,16 +5,14 @@
 输出：
     判断该年是否包含黑色星期五，如包含，给出具体日期
 */
-#include "stdio.h"  
-int CaculateWeekDay(int y,int m, int d)  
-{  
-    if(m==1||m==2) {  
+#include <stdio.h>
+int CaculateWeekDay(int y,int m, int d){  
+    if(m==1||m==2){  
         m+=12;  
         y--;  
     }  
     int iWeek=(d+2*m+3*(m+1)/5+y+y/4-y/100+y/400)%7;  
-    switch(iWeek)  
-    {  
+    switch(iWeek){  
     case 4:  
         return 1;  
         break;  
