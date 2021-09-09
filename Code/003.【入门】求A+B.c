@@ -11,4 +11,4 @@ int main(){
   scanf("%d\n%d",&a,&b);
   x=a+b;
   printf("%d+%d=%d\n",a,b,x);
-}  
+}
