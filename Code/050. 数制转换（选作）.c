@@ -15,24 +15,19 @@ typedef long long ll;
 #define N 100005
 #define max(a,b) a>b?a:b
 #define min(a,b) a<b?a:b
-void Qsort(int *a,int l,int r)
-{
+void Qsort(int *a,int l,int r){
     if(l>r)
         return;
     int temp=a[l];
     int i=l,j=r;
-    while(i!=j)
-    {
-        while(a[j]>=temp&&i<j)
-        {
+    while(i!=j){
+        while(a[j]>=temp&&i<j){
             j--;
         }
-        while(a[i]<=temp&&i<j)
-        {
+        while(a[i]<=temp&&i<j){
             i++;
         }
-        if(i<=j)
-        {
+        if(i<=j){
             int t=a[i];
             a[i]=a[j];
             a[j]=t;
@@ -44,10 +39,8 @@ void Qsort(int *a,int l,int r)
     Qsort(a,i+1,r);
     return;
 }
-int erfen(int *a,int x,int left,int right)
-{
-    if(left==right)
-    {
+int erfen(int *a,int x,int left,int right){
+    if(left==right){
         if(a[left]==x)
             return left;
         else
@@ -63,39 +56,32 @@ int erfen(int *a,int x,int left,int right)
     else
         return -1;
 }
-int spow(int x,int y)
-{
+int spow(int x,int y){
     int ans=1;
-    for(int i=1;i<=y;i++)
-    {
+    for(int i=1;i<=y;i++){
         ans=ans*x;
     }
     return ans;
 }
-ll zhuan(char *str,int n,int m)
-{
+ll zhuan(char *str,int n,int m){
     int len=strlen(str);
     int a[len+1];
-    for(int i=0;i<len;i++)
-    {
+    for(int i=0;i<len;i++){
         if(str[i]>='0'&&str[i]<='9')
             a[i]=str[i]-'0';
         else
             a[i]=str[i]-'A'+10;
     }
     int sum=0;
-    for(int i=0;i<len;i++)
-    {
+    for(int i=0;i<len;i++){
         a[i]=a[i]*spow(n,len-i-1);
         sum+=a[i];
     }
     char ss[1005];
     int nm=-1;
-    while(sum)
-    {
+    while(sum){
         int u=sum%m;
-        if(u<10)
-        {
+        if(u<10){
             char c=u-0+'0';
             nm++;
             ss[nm]=c;
@@ -103,20 +89,17 @@ ll zhuan(char *str,int n,int m)
         sum/=m;
     }
     ll ans=0;
-    per(i,0,nm)
-    {
+    per(i,0,nm){
         ans=ans*10+(int)(ss[i]-'0');
     }
     return ans;
 }
-int main()
-{
+int main(){
     char str[1005];
     scanf("%s",str);
     int len=strlen(str);
     int p=0;
-    rep(i,0,len-1)
-    {
+    rep(i,0,len-1){
         int cnt;
         if(str[i]>='0'&&str[i]<='9')
             cnt=str[i]-'0';
@@ -128,8 +111,7 @@ int main()
     scanf("%s",str1);
     int len1=strlen(str1);
     int q=0;
-    rep(i,0,len1-1)
-    {
+    rep(i,0,len1-1){
         int cnt;
         if(str1[i]>='0'&&str1[i]<='9')
             cnt=str1[i]-'0';
@@ -138,14 +120,11 @@ int main()
         q=max(q,cnt);
     }
     int flag=0;
-    rep(i,p+1,36)
-    {
+    rep(i,p+1,36){
         ll nm1=zhuan(str,i,10);
-        rep(j,q+1,36)
-        {
+        rep(j,q+1,36){
             ll nm2=zhuan(str1,j,10);
-            if(nm1==nm2)
-            {
+            if(nm1==nm2){
                 printf("%s (base %lld) = %s (base %lld)\n",str,i,str1,j);
                 flag=1;
                 break;
@@ -154,8 +133,7 @@ int main()
         if(flag==1)
             break;
     }
-    if(flag==0)
-    {
+    if(flag==0){
         printf("%s is not equal to %s in any base 2..36\n",str,str1);
     }
     return 0;
