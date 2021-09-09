@@ -36,4 +36,4 @@ int main(){
     if(t==0){  
         printf("No output.\n");  
     }  
-}  
+}
