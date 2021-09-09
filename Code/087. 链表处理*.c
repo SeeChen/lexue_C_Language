@@ -56,5 +56,4 @@ int main(){
 	movenode(head,m);
 	outlink(head);
 	printf("\n");
-	return 0;
 }
