@@ -38,5 +38,4 @@ int main(){
 		}
 	}
 	printf("The max is %d.\n",k-1);
-	return 0;
 }
