@@ -15,4 +15,4 @@ int main(){
         if(total>=n) break;  
     }  
     printf("%d\n",m);  
-}  
+}
