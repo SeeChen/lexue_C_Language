@@ -70,5 +70,4 @@ int main(){
 		}
 	}
 	printf("%d\n",stack.num[0]);
-	return 0;
 }
