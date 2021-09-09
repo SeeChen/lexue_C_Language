@@ -20,7 +20,7 @@ int main(){
                 for(j=i;j<f;j++){  
                     a[j]=a[j+1];   
                 }    
-                i -= 1;  
+                i -= 1;
                 break;  
             }
         }
