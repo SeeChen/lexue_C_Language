@@ -7,7 +7,7 @@
 输出：
       串u
 */
-#include<stdio.h>  
+#include <stdio.h>
 int main()  
 {  
     int i,j,m=0,flag=0;  
