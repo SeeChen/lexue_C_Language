@@ -53,4 +53,4 @@ int main(){
     }else{  
         printf("%d/%d %c %d/%d = %d/%d\n",a1,b1,calc,a2,b2,a,b);  
     }  
-}  
+}
