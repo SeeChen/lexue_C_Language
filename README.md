@@ -1,23 +1,46 @@
-<img src="http://www.jd-tv.com/uploads/allimg/170126/154920H54_0.png" width="100" height="100" alt=""/>
+<img src="https://www.emojidaquan.com/Uploads/image/202105/1621219923545111.gif" width="100" height="100" alt=""/>
 
-# C Language of BeiJing Institute of Technology Lexue
-***
-### About this Code:
-&nbsp;&nbsp;&nbsp;&nbsp;-*This is Code of LUXUE C Language of BIT.*<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;-*Not all code contained in this repository is correct,please check yourself before use.*</br>
-&nbsp;&nbsp;&nbsp;&nbsp;-*If you have a better code, please [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to me. Thank you!*</br>
-&nbsp;&nbsp;&nbsp;&nbsp;-*The code for this repository is not complete，**BECAUSE I'M TOO LAZY TO WRITE** [😏😏😏](https://www.google.com/search?q=%E6%BB%91%E7%A8%BD&rlz=1C1SQJL_enMY905MY905&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj6uM-Gia_xAhV8yDgGHdggBL0Q_AUoAXoECAEQAw&biw=1280&bih=648).So if you have code, be sure to pull request to me!!!*</br>
-***
-### About sequence of the code
-&nbsp;&nbsp;&nbsp;&nbsp;-*This code is sorted from top to bottom in [LEXUE C Language](http://lexue.bit.edu.cn/course/view.php?id=6775), which is different from the [LEXUE C Language](http://lexue.bit.edu.cn/course/view.php?id=6775) number.*</br>
-&nbsp;&nbsp;&nbsp;&nbsp;-*Except for the number, all titles are the same as [LEXUE C Language](http://lexue.bit.edu.cn/course/view.php?id=6775).*</br>
-&nbsp;&nbsp;&nbsp;&nbsp;-*All code don't have input and output example.*</br>
-&nbsp;&nbsp;&nbsp;&nbsp;-*If you can't find the code you want, please check whether other code files have similar topic.*</br>
-&nbsp;&nbsp;&nbsp;&nbsp;-*All codes are in the [Code](https://github.com/SeeChen/lexue_C_Language/tree/main/Code) folder.*</br>
-***
-### Contributors
-&nbsp;&nbsp;&nbsp;&nbsp;-*This project exists thanks to all the people who contribute.*</br></br>
-<a href="https://github.com/SeeChen/lexue_C_Language/graphs/contributors"><img src="https://contrib.rocks/image?repo=SeeChen/lexue_C_Language" /></a>
-***
-#### *If you have any suggestions, please [click here](https://wa.me/60108279254).*
-###### *Last modified in 02:28:00 25 June 2021 GMT +08:00 by SeeChen.*
+# The 14th class of MOOC BIT C Language programming
+---
+- [About](#about)
+- [File](#file)
+- [关于](#关于)
+- [文件](#文件)
+- [Description](#description)
+#### About
+>- This is the code for the C language programming assignment for the second semester of 2020-2021 Beijing Institute of Technology;
+>- These codes are for the convenience of my own review and use in the future;
+>- The comment above the code is the title of the code;
+>- The code is not guaranteed to be completely correct, if you have a better code, you can [Pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to me;
+>- If you have any questions about the code, you can post a discussion in [Issues](https://github.com/SeeChen/lexue_C_Language/issues).
+><!--If you want to view the problem-solving ideas, please click [here](https://google.com);
+>- For the OJ test result of the code, please check the update information column, update information [Identification](#description).-->
+#### File
+>- The codes are sorted in the order of [LEXUE C language](http://lexue.bit.edu.cn/) from top to bottom, which will different from [LEXUE C language](http://lexue.bit.edu.cn/);
+>- Except for the document number, the title is the same as the title used in [LEXUE C language](http://lexue.bit.edu.cn/);
+>- If the problem is similar and the method of solving the problem is similar, you will only have one code file. Therefore, if you cannot find a code file with the same title, you can check whether there is a similar title file;
+>- All [LEXUE C language](http://lexue.bit.edu.cn/) question codes are stored in the [Code](https://github.com/SeeChen/lexue_C_Language/tree/main/Code) folder in order;
+>- The [CommonErrorMessage.md](https://github.com/SeeChen/lexue_C_Language/blob/main/CommonErrorMessage.md) file under the [Code](https://github.com/SeeChen/lexue_C_Language/tree/main/Code) folder is a Chinese-English comparison table of common error messages when the C language program fails to compile.
+#### 关于
+>- 这是北京理工大学 2020-2021 的第二学期 C 语言程序设计作业的代码;
+>- 这些代码是为了方便我以后自己复习使用;
+>- 代码上方的注释是为该代码的所属题目;
+>- 代码不保证完全正确，如果您有更好的代码，可以向我 [Pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request);
+>- 如果对于代码有任何的问题，可以在 [Issues](https://github.com/SeeChen/lexue_C_Language/issues) 发表讨论。
+><!--若想查看题目的解题思路，请点击[这里](https://google.com);
+>代码的 OJ 测试结果，请查看更新信息一栏,[更新信息标识](#description)。-->
+#### 文件
+>- 代码按照[乐学 C 语言](http://lexue.bit.edu.cn/)由上至下顺序排序，与[乐学 C 语言](http://lexue.bit.edu.cn/)的编号会有所不同;
+>- 除了文件的编号，标题与[乐学 C 语言](http://lexue.bit.edu.cn/)中题目所用的标题一致;
+>- 若题目相似、解题方法类似，则将只会拥有一个代码文件。因此若无法找到标题一致的代码文件，可以查看是否有类似的题目文件;
+>- 所有[乐学 C 语言](http://lexue.bit.edu.cn/)的题目代码，按照顺序，存放在 [Code](https://github.com/SeeChen/lexue_C_Language/tree/main/Code) 文件夹里;
+>- [Code](https://github.com/SeeChen/lexue_C_Language/tree/main/Code) 文件夹下方的 [CommonErrorMessage.md](https://github.com/SeeChen/lexue_C_Language/blob/main/CommonErrorMessage.md) 文件，为 C 语言程序编译失败时，常见的错误信息中英对照表。
+#### Description
+- **Update Information Description**
+```
+None:code is already AC;
+WA:some test failed;
+TLE:some test TLE;
+--no tested--:code is not tested;
+--NO CODE--:No code yet;
+```
