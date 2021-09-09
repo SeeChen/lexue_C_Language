@@ -45,7 +45,6 @@ int main(){
 		q=q->next;
 	}while(q->next!=NULL);
 	printf("\n");
-	return 0;
 }
 NODE *monenode(NODE *head,int m){
 	NODE *p,*q;
