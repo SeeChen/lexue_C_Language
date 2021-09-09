@@ -4,7 +4,7 @@
 输出：
     分别输出按照整型数据进行 +、-、*、/、* 之后的运行结果。
 */
-#include<stdio.h>        
+#include <stdio.h>        
 int main(){
   int a,b;
   scanf("%d %d",&a,&b);
