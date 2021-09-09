@@ -23,4 +23,4 @@ int main(){
 		} 
 		printf("The max prime number is %d.\n",b);	 
 	}
-} 
+}
