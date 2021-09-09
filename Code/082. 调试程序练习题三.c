@@ -43,5 +43,4 @@ int main(){
 	for(i=0;i<n;i++)
 		a[i]=i+1;
 	printf("The left child is NO% d.\n",game(n,0,r));
-	return 0;
 }
