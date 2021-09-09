@@ -7,8 +7,8 @@
        h ：单链表的头指针
       num ：新输入的需要插入链表中的数据
 */
-#include "stdio.h"
-#include "stdlib.h"
+#include <stdio.h>
+#include <stdlib.h>
 struct node{
 	int data;
 	struct node * next;
