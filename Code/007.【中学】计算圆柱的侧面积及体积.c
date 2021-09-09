@@ -17,4 +17,4 @@ int main(){
   s=2*Pi*r*h;
   v=Pi*r*r*h;
   printf("s=%.2lf,v=%.2lf\n",s,v);
-}  
+}
