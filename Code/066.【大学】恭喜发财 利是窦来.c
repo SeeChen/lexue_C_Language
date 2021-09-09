@@ -50,5 +50,4 @@ int main(){
 	}
 	for (i = 0; i < m; i++ )
 		printf("%s %d\n",people[i].name,people[i].value);
-	return 0;
 }
