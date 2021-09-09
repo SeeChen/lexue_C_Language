@@ -50,5 +50,4 @@ int main(){
 	}
 	r+=n-sign-1;
 	printf("%d\n",r);
-	return 0;
 }
