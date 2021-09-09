@@ -33,4 +33,4 @@ int main(){
         }  
         hah:printf("%c\n",c);  
     }  
-}  
+}
