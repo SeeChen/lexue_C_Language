@@ -1,8 +1,8 @@
 /*
 请按照输入整数的顺序建立一个带表头节点的链表。已知程序的基本结构如下，请你编写 ins_list 函数。
 */
-#include "stdio.h"
-#include "stdlib.h"
+#include <stdio.h>
+#include <stdlib.h>
 struct node{
 	int data;
 struct node*next;
