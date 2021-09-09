@@ -17,4 +17,4 @@ int main(){
     else   
         printf("The last 3 numbers is %d.\n", r);  
     return 0;  
-}  
+}
