@@ -6,7 +6,7 @@
  输出：
  如果勇士们能完成任务，输出校长需要花的最小费用；否则输 出 “bit is doomed! ”
 */
-#include <stdio.h>  
+#include <stdio.h>
 int main(){
 	int i,j,t;  
     int dragon[105],dragon_f[105];  
