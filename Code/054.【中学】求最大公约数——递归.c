@@ -5,7 +5,7 @@ GCD(N,M) = GCD(m,n)   当n<m时
                   = GCD(m, n mod m)     其他
 输入：
         n和m
-输出：
+输出： 
         n和m的最大公约数
 */
 #include <stdio.h>
