@@ -2,11 +2,10 @@
 
 # 2020-2021 second semester LEXUE C language assignment code
 ---
-<a href="https://github.com/SeeChen/lexue_C_Language/blob/main/LICENSE">![GitHub](https://img.shields.io/github/license/SeeChen/lexue_C_Language?color=1AA260&label=LICENSE)</a>
+<a href="LICENSE">![GitHub](https://img.shields.io/github/license/SeeChen/lexue_C_Language?color=1AA260&label=LICENSE)</a>
 <a href="https://gitter.im/SeeChen" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-GITTER-FF5CF7?style=flat&logo=gitter)</a>
 - [About](#about)
 - [File](#file)
-- [Notice](#notice)
 - [关于](#关于)
 - [文件](#文件)
 - [Description](#description)
