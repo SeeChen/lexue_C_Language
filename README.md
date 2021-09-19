@@ -6,6 +6,7 @@
 <a href="https://gitter.im/SeeChen" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-GITTER-FF5CF7?style=flat&logo=gitter)</a>
 - [About](#about)
 - [File](#file)
+- [Notice](#notice)
 - [关于](#关于)
 - [文件](#文件)
 - [Description](#description)
@@ -46,3 +47,5 @@ TLE:some test TLE;
 --no tested--:code is not tested in lexue;
 --NO CODE--:No code yet;
 ```
+#### LICENSE
+> [MIT](LICENSE) &copy; SeeChen
