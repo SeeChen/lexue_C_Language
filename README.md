@@ -2,6 +2,8 @@
 
 # 2020-2021 second semester LEXUE C language assignment code
 ---
+<a href="https://github.com/SeeChen/lexue_C_Language/blob/main/LICENSE">![GitHub](https://img.shields.io/github/license/SeeChen/lexue_C_Language?color=1AA260&label=LICENSE)</a>
+<a href="https://gitter.im/SeeChen" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-GITTER-FF5CF7?style=flat&logo=gitter)</a>
 - [About](#about)
 - [File](#file)
 - [关于](#关于)
@@ -12,9 +14,9 @@
 >- These codes are for the convenience of my own review and use in the future;
 >- The comment above the code is the title of the code;
 >- The code is not guaranteed to be completely correct, if you have a better code, you can [Pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to me;
->- If you have any questions about the code, you can post a discussion in [Issues](https://github.com/SeeChen/lexue_C_Language/issues).
-><!--If you want to view the problem-solving ideas, please click [here](https://google.com);
->- For the OJ test result of the code, please check the update information column, update information [Identification](#description).-->
+>- If you have any questions about the code, you can post a discussion in [Issues](https://github.com/SeeChen/lexue_C_Language/issues), or chat with me on [Gitter](https://gitter.im/SeeChen).
+><!--If you want to view the problem-solving ideas, please click [here](https://google.com); -->
+>- For the OJ test result of the code, please check the update information column, update information [Identification](#description).
 #### File
 >- The codes are sorted in the order of [LEXUE C language](http://lexue.bit.edu.cn/) from top to bottom, which will different from [LEXUE C language](http://lexue.bit.edu.cn/);
 >- Except for the document number, the title is the same as the title used in [LEXUE C language](http://lexue.bit.edu.cn/);
@@ -26,9 +28,9 @@
 >- 这些代码是为了方便我以后自己复习使用;
 >- 代码上方的注释是为该代码的所属题目;
 >- 代码不保证完全正确，如果您有更好的代码，可以向我 [Pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request);
->- 如果对于代码有任何的问题，可以在 [Issues](https://github.com/SeeChen/lexue_C_Language/issues) 发表讨论。
-><!--若想查看题目的解题思路，请点击[这里](https://google.com);
->代码的 OJ 测试结果，请查看更新信息一栏,[更新信息标识](#description)。-->
+>- 如果对于代码有任何的问题，可以在 [Issues](https://github.com/SeeChen/lexue_C_Language/issues) 发表讨论，或在 [Gitter](https://gitter.im/SeeChen) 上私聊。
+><!-- 若想查看题目的解题思路，请点击[这里](https://google.com); -->
+>- 代码的 OJ 测试结果，请查看更新信息一栏,[更新信息标识](#description)。
 #### 文件
 >- 代码按照[乐学 C 语言](http://lexue.bit.edu.cn/)由上至下顺序排序，与[乐学 C 语言](http://lexue.bit.edu.cn/)的编号会有所不同;
 >- 除了文件的编号，标题与[乐学 C 语言](http://lexue.bit.edu.cn/)中题目所用的标题一致;
